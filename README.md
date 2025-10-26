@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Zaval3ta </h1></summary>
+    <summary><h1 style="display: inline-block">Hello 👋, i'm Zaval3ta </h1></summary>
   </ul>
 </div>
 
@@ -12,7 +12,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Si el codigo no tiene bugs, lo programo mi gata. 😺</h2></summary>
+    <summary><h2 style="display: inline-block">If the code doesn't have bugs, my cat programmed it 😺</h2></summary>
   </ul>
 </div>
 
@@ -21,13 +21,11 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <!--Intro start-->
-- 👨‍💻 Programador web full stack
+- 👨‍💻 Dev web full stack
 
-- 🏞️ FrontEnd: Astro, JavaScript y React
+- 🏞️ FrontEnd: Astro, React with RTK Query for fetching data and state management.
 
-- ☁️ Backend: C#.Net, ASP.Core, TypeScript, Nodejs y Express
-
-- 📝 Aprendiendo cada día
+- ☁️ Backend: C#.Net, ASP.Core, TypeScript with Nodejs
 
 - 📫 Correo de contacto *zavaletap2210@gmail.com*
 
