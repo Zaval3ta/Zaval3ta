@@ -23,11 +23,11 @@
 <!--Intro start-->
 - 👨‍💻 Dev web full stack
 
-- 🏞️ FrontEnd: Astro, React with RTK Query for fetching data and state management.
+- 🏞️ FrontEnd: Microfronts whit React and RTK Query for fetching data and state management.
 
-- ☁️ Backend: C#.Net, ASP.Core, TypeScript with Nodejs
+- ☁️ Backend: Clean Architecture with C#.Net and TypeScript
 
-- 📫 Correo de contacto *zavaletap2210@gmail.com*
+- 📫 My contact: *zavaletap2210@gmail.com*
 
 <!--Intro end-->
 
